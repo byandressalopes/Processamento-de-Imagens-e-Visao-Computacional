@@ -22,3 +22,4 @@ salvar o print.
 
 Créditos:
 Testes realizados no laboratório de Informática da UFOPA/ORIXIMINÁ sob a orientação do Professor esp. Danilo Azevedo Figueiredo.
+Discentes envolvidas: Andressa Lopes e Jeanete Wai Wai
